@@ -8,7 +8,7 @@ using System.Runtime.Remoting.Lifetime;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//MainScreen
 namespace InventoryApplication
 {
     public partial class MainScreen : Form
