@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WGUSOFTWARE1
+namespace InventoryApplication
 {
     public class OutsourcedPart : Parts
     {

@@ -1,4 +1,4 @@
-﻿namespace WGUSOFTWARE1
+﻿namespace InventoryApplication
 {
     partial class AddProductScreen
     {

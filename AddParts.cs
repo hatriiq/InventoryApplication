@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace WGUSOFTWARE1
+namespace InventoryApplication
 {
     public partial class AddPartScreen : Form
     {
